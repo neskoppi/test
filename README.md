@@ -4,3 +4,5 @@
 --- UPDATED 20140913 ---
 - Another update, hello
 - Add more text here.
+
+[![Build Status](http://github.com/neskoppi)]
