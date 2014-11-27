@@ -5,4 +5,4 @@
 - Another update, hello
 - Add more text here.
 
-[![Build Status](http://github.com/neskoppi)]
+[![Build Status](https://travis-ci.org/adobe/brackets.svg?branch=master)](https://travis-ci.org/adobe/brackets)
